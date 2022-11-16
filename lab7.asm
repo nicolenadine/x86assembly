@@ -1,4 +1,4 @@
-TITLE Lab 7: Procedures and Macros 
+TITLE Lab 7: Working with Procedures and Macros: Convert user decimal input into Hexidecimal
 
 ; Name: Nicole Parziale 
 
