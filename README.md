@@ -1,7 +1,7 @@
 # x86assembly
 Lab projects from a course taken on computer architecture and x86 assembly language. 
 
-Most labs are amix of short answer questions as well as writing code snipets in response to 
+Most labs are a mix of short answer questions as well as writing code snipets in response to 
 given requirements. 
 
 ### Lab 4
